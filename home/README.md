@@ -41,5 +41,7 @@ layout:
 
 **Markdown** es un lenguaje de marcado se usa  para especificar el formato que debe tener un texto, como títulos, negritas, listas y cosas similares.&#x20;
 
-&#x20;
+## Comentario sobre el proyecto.
+
+No me ha parecido ni fácil  ni difícil  me  parece que esta equilibrado porque los problemas que tuve fueron _**intentando**_ conectar mi repositorio de GitHub con la web. Me gusta mucho porque ahora voy a tener  un lugar con  todo lo que necesito para estudiar en un solo lugar.
 
