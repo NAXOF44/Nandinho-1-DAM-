@@ -39,14 +39,16 @@ Un lenguaje de marcas permite definir la **estructura y presentación de un docu
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Mi primera página</title>
-</head>
 <body>
-    <h1>Lenguajes de Marcas</h1>
-    <p>Este es un documento HTML.</p>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
 </body>
 </html>
+
+
 ```
 
 ### HTML vs XML
@@ -61,7 +63,7 @@ Un lenguaje de marcas permite definir la **estructura y presentación de un docu
 
 ### Web de referencia
 
-Puedes consultar la documentación de **MDN Web Docs** para aprender más sobre HTML:
+&#x20;**MDN Web Docs** para aprender  sobre HTML:
 
 [MDN Web Docs - HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 
