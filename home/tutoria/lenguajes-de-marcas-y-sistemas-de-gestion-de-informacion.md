@@ -1,5 +1,9 @@
 ---
 icon: '4'
+cover:
+  light: .gitbook/assets/1724226101378.jpeg
+  dark: .gitbook/assets/1724226101378.jpeg
+coverY: 0
 ---
 
 # Lenguajes de marcas y sistemas de gestión de información
@@ -66,8 +70,6 @@ Un lenguaje de marcas permite definir la **estructura y presentación de un docu
 &#x20;**MDN Web Docs** para aprender  sobre HTML:
 
 [MDN Web Docs - HTML](https://developer.mozilla.org/es/docs/Web/HTML)
-
-> 💡 **Apunte importante:** HTML se utiliza principalmente para estructurar el contenido de las páginas web, mientras que XML está orientado principalmente a estructurar y transportar datos.
 
 ### Conclusión
 
