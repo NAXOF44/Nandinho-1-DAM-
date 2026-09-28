@@ -15,12 +15,6 @@ site:
           default: true
           content:
             directory: ./home
-        - type: space
-          key: space-6
-          title: API Reference
-          path: api-reference
-          content:
-            directory: ./home/api-reference
     - type: section
       key: section-2
       title: Documentation
