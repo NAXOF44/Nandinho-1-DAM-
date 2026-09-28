@@ -1,8 +1,7 @@
 ---
 description: >-
-  Este es un  donde aprendemos a desarrollar aplicaciones multiplataforma con
-  acceso a bases de datos utilizando lenguajes, librerías y herramientas
-  adecuados a las especificaciones.
+  Hola bienveido a  mi pagina de apuntes , este es mi pagina de apuntes de mi
+  clases de 1º DAM aqui guardo todo lo aprendido en clase de todos los midulos
 icon: house
 layout:
   width: default
@@ -26,11 +25,15 @@ layout:
     visible: false
 ---
 
-# 1º CFGS Informática y Comunicaciones - Desarrollo de Aplicaciones Multiplataforma.
+# Introducion
 
-## ¿Que es este sitio?
+<table data-view="cards"><thead><tr><th></th><th><select></select></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image"></th></tr></thead><tbody><tr><td></td><td></td><td><p>En este modulo aprendemos:</p><p>Administrar sistemas operativos de servidor.</p></td><td></td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/593f19f4bdbc5.jpeg">593f19f4bdbc5.jpeg</a></td></tr><tr><td></td><td></td><td><p>En este modulo aprendemos:</p><p> Implantar y gestionar bases de datos.</p></td><td></td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/45.jpeg">45.jpeg</a></td></tr><tr><td></td><td></td><td>En este modulo aprendemos a programar y entender la lógica de la programación.</td><td></td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/">API Reference</a></td><td><a href=".gitbook/assets/consulting-blog-09.webp">consulting-blog-09.webp</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf" style="color:$primary;">:leaf:</i></h4></td><td><strong>No code</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server" style="color:$primary;">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal" style="color:$primary;">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/">API Reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+| \[BAE] | Bases de datos |
+| ------ | -------------- |
+
+| \[BAE] | Bases de datos |
+| ------ | -------------- |
 
 &#x20;
 
