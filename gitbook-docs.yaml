@@ -20,6 +20,7 @@ site:
       title: Documentation
       path: documentation
       icon: book-blank
+      default: true
       children:
         - type: space
           key: space-2
@@ -67,18 +68,3 @@ site:
           default: true
           content:
             directory: ./help-center
-    - type: section
-      key: section-6
-      title: Copy of Documentation
-      path: copy-of-documentation
-      icon: book-blank
-      default: true
-      children:
-        - type: space
-          key: space-6
-          title: Copy of Documentation
-          path: copy-of-documentation
-          default: true
-          draft: true
-          content:
-            directory: ./copy-of-documentation
