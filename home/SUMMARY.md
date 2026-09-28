@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Developer Platform](README.md)
+* [1º CFGS Informática y Comunicaciones - Desarrollo de Aplicaciones Multiplataforma.](README.md)
