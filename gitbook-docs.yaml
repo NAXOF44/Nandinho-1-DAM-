@@ -7,7 +7,6 @@ site:
       title: Home
       path: home
       icon: house
-      default: true
       children:
         - type: space
           key: space-1
@@ -73,6 +72,7 @@ site:
       title: Copy of Documentation
       path: copy-of-documentation
       icon: book-blank
+      default: true
       children:
         - type: space
           key: space-6
