@@ -7,6 +7,7 @@ site:
       title: Home
       path: home
       icon: house
+      default: true
       children:
         - type: space
           key: space-1
@@ -21,20 +22,6 @@ site:
           path: tutoria
           content:
             directory: ./home/tutoria
-    - type: section
-      key: section-3
-      title: API Reference
-      path: api-reference
-      icon: terminal
-      default: true
-      children:
-        - type: space
-          key: space-3
-          title: API Reference
-          path: api-reference
-          default: true
-          content:
-            directory: ./api-reference
     - type: section
       key: section-4
       title: Changelog
