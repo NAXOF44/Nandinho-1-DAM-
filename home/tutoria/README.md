@@ -1,5 +1,5 @@
 ---
-icon: gears
+icon: '1'
 ---
 
 # Sistemas informáticos
