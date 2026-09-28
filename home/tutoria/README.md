@@ -1,6 +1,6 @@
 ---
-icon: '1'
+icon: gears
 ---
 
-# Ut1
+# Sistemas informáticos
 
