@@ -18,8 +18,8 @@ site:
             directory: ./home
         - type: space
           key: space-2
-          title: Tutoria
-          path: tutoria
+          title: Ver Modulo.
+          path: modulo
           content:
             directory: ./home/tutoria
     - type: section
