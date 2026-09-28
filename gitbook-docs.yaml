@@ -19,7 +19,6 @@ site:
           key: space-6
           title: API Reference
           path: api-reference
-          draft: true
           content:
             directory: ./home/api-reference
     - type: section
