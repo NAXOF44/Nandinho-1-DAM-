@@ -19,7 +19,6 @@ site:
           key: space-2
           title: Tutoria
           path: tutoria
-          draft: true
           content:
             directory: ./home/tutoria
     - type: section
