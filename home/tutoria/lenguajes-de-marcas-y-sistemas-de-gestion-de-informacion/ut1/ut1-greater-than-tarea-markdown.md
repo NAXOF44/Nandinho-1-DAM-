@@ -4,9 +4,9 @@ icon: folder-open
 
 # UT1 -> Tarea Markdown
 
-| Nombre                  | Módulo                        |
-| ----------------------- | ----------------------------- |
-| Nandinho Antonio Mendes | DAM1 Lenguaje de Marcas 26-27 |
+| Nombre   | Módulo                        |
+| -------- | ----------------------------- |
+| Nandinho | DAM1 Lenguaje de Marcas 26-27 |
 
 ## ¿Que es?
 
