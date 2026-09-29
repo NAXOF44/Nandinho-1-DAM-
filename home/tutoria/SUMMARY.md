@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Sistemas informáticos](README.md)
+* [Modulos - Curso 26/27](README.md)
+* [Sistemas informáticos](<README (1).md>)
 * [Bases de datos](bases-de-datos.md)
 * [Programación](programacion.md)
 * [Lenguajes de marcas y sistemas de gestión de información](lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/README.md)
