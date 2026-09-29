@@ -9,7 +9,7 @@ cover: >-
 coverY: 74.25925925925925
 coverHeight: 448
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
@@ -19,17 +19,17 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
   anchors:
     visible: true
 ---
