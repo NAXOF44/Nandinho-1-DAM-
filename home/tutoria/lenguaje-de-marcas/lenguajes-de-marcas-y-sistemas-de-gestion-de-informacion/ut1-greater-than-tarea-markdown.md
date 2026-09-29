@@ -302,11 +302,11 @@ Un guion bajo\_dentro\_de una palabra
 
 ### Sintaxis básica
 
-![Texto alternativo](../.gitbook/assets/300)
+![Texto alternativo](../../.gitbook/assets/300)
 
 ### Título emergente
 
-![Montañas](../.gitbook/assets/300.jpg)
+![Montañas](../../.gitbook/assets/300.jpg)
 
 ### Imágenes de referencia
 
