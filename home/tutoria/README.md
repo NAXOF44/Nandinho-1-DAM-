@@ -1,8 +1,6 @@
 ---
 icon: book-open-cover
-cover: >-
-  .gitbook/assets/From Klickpin.com- Content Calendar Ideas for
-  Spring-pin-id-691372980339895808.jpg
+cover: .gitbook/assets/1 DAM- Modulos.gif
 coverY: 0
 layout:
   width: default
@@ -32,39 +30,39 @@ layout:
 
 # Modulos - Curso 26/27
 
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
+{% content-ref url="modulos-curso-26-27/sistemas-informaticos.md" %}
+[sistemas-informaticos.md](modulos-curso-26-27/sistemas-informaticos.md)
 {% endcontent-ref %}
 
-{% content-ref url="bases-de-datos.md" %}
-[bases-de-datos.md](bases-de-datos.md)
+{% content-ref url="modulos-curso-26-27/bases-de-datos.md" %}
+[bases-de-datos.md](modulos-curso-26-27/bases-de-datos.md)
 {% endcontent-ref %}
 
-{% content-ref url="programacion.md" %}
-[programacion.md](programacion.md)
+{% content-ref url="modulos-curso-26-27/programacion.md" %}
+[programacion.md](modulos-curso-26-27/programacion.md)
 {% endcontent-ref %}
 
-{% content-ref url="lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/" %}
-[lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion](lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/)
+{% content-ref url="modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/" %}
+[lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/)
 {% endcontent-ref %}
 
-{% content-ref url="entornos-de-desarrollo.md" %}
-[entornos-de-desarrollo.md](entornos-de-desarrollo.md)
+{% content-ref url="modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/entornos-de-desarrollo.md" %}
+[entornos-de-desarrollo.md](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/entornos-de-desarrollo.md)
 {% endcontent-ref %}
 
-{% content-ref url="itinerario-personal-para-la-empleabilidad-i.md" %}
-[itinerario-personal-para-la-empleabilidad-i.md](itinerario-personal-para-la-empleabilidad-i.md)
+{% content-ref url="modulos-curso-26-27/itinerario-personal-para-la-empleabilidad-i.md" %}
+[itinerario-personal-para-la-empleabilidad-i.md](modulos-curso-26-27/itinerario-personal-para-la-empleabilidad-i.md)
 {% endcontent-ref %}
 
-{% content-ref url="ingles-profesional-gs.md" %}
-[ingles-profesional-gs.md](ingles-profesional-gs.md)
+{% content-ref url="modulos-curso-26-27/ingles-profesional-gs.md" %}
+[ingles-profesional-gs.md](modulos-curso-26-27/ingles-profesional-gs.md)
 {% endcontent-ref %}
 
-{% content-ref url="tutoria.md" %}
-[tutoria.md](tutoria.md)
+{% content-ref url="modulos-curso-26-27/tutoria.md" %}
+[tutoria.md](modulos-curso-26-27/tutoria.md)
 {% endcontent-ref %}
 
-{% content-ref url="digitalizacion-aplicada-a-los-sectores-productivos.md" %}
-[digitalizacion-aplicada-a-los-sectores-productivos.md](digitalizacion-aplicada-a-los-sectores-productivos.md)
+{% content-ref url="modulos-curso-26-27/digitalizacion-aplicada-a-los-sectores-productivos.md" %}
+[digitalizacion-aplicada-a-los-sectores-productivos.md](modulos-curso-26-27/digitalizacion-aplicada-a-los-sectores-productivos.md)
 {% endcontent-ref %}
 
