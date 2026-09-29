@@ -1,3 +1,7 @@
+---
+icon: folder-open
+---
+
 # UT1 -> Tarea Markdown
 
 | Nombre                  | Módulo                        |
