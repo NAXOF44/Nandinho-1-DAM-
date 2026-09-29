@@ -23,10 +23,3 @@ site:
           path: modulos
           content:
             directory: ./home/tutoria
-        - type: space
-          key: space-3
-          title: Copy of Home Modulos.
-          path: copy-of-home-modulos.
-          draft: true
-          content:
-            directory: ./home/copy-of-home-modulos.
