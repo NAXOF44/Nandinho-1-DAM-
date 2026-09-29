@@ -1,6 +1,6 @@
 ---
 icon: '5'
-cover: ../../.gitbook/assets/para web1 DAM (9).gif
+cover: ../.gitbook/assets/para web1 DAM (9).gif
 coverY: 0
 layout:
   width: default

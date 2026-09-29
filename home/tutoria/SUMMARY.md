@@ -9,7 +9,7 @@
       * [UT1 -> Tarea Markdown](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/ut1/ut1-greater-than-tarea-markdown.md)
     * [UT1](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/ut1-1.md)
     * [UT3](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/ut3.md)
-    * [Entornos de desarrollo](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/entornos-de-desarrollo.md)
+  * [Entornos de desarrollo](modulos-curso-26-27/entornos-de-desarrollo.md)
   * [Itinerario personal para la empleabilidad I](modulos-curso-26-27/itinerario-personal-para-la-empleabilidad-i.md)
   * [Inglés profesional (GS)](modulos-curso-26-27/ingles-profesional-gs.md)
   * [Tutoría](modulos-curso-26-27/tutoria.md)

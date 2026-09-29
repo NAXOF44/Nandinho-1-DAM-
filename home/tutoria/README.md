@@ -2,6 +2,7 @@
 icon: book-open-cover
 cover: .gitbook/assets/1 DAM- Modulos.gif
 coverY: 0
+coverHeight: 313
 layout:
   width: default
   cover:
@@ -46,8 +47,8 @@ layout:
 [lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/)
 {% endcontent-ref %}
 
-{% content-ref url="modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/entornos-de-desarrollo.md" %}
-[entornos-de-desarrollo.md](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/entornos-de-desarrollo.md)
+{% content-ref url="modulos-curso-26-27/entornos-de-desarrollo.md" %}
+[entornos-de-desarrollo.md](modulos-curso-26-27/entornos-de-desarrollo.md)
 {% endcontent-ref %}
 
 {% content-ref url="modulos-curso-26-27/itinerario-personal-para-la-empleabilidad-i.md" %}
