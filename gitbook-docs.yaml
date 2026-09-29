@@ -16,6 +16,7 @@ site:
           default: true
           content:
             directory: ./home
+            language: es
         - type: space
           key: space-2
           title: Modulos.
