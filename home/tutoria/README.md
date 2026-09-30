@@ -4,7 +4,7 @@ cover: .gitbook/assets/1 DAM- Modulos.gif
 coverY: 0
 coverHeight: 313
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
@@ -18,13 +18,13 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
   anchors:
     visible: true
 ---

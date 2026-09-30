@@ -19,11 +19,11 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
   anchors:
     visible: true
 ---

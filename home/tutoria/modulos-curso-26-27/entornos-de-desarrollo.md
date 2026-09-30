@@ -17,13 +17,13 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
   anchors:
     visible: true
 ---
