@@ -2,7 +2,7 @@
 icon: folder-open
 ---
 
-# UT1 -> Tarea Markdown
+# UT1 - Markdown
 
 | Nombre   | Módulo                        |
 | -------- | ----------------------------- |
@@ -185,7 +185,7 @@ Consulta la [documentación](https://www.hola.com/) para más detalles.
 
 ### Anclas
 
-Salta a la sección de [tablas](ut1-greater-than-tarea-markdown.md#tablas).
+Salta a la sección de [tablas](ut1-markdown.md#tablas).
 
 ### Enlaces relativos
 

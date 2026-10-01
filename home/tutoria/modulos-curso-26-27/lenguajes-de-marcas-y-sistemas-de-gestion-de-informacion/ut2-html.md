@@ -30,5 +30,9 @@ layout:
     visible: true
 ---
 
-# UT1
+# UT2 - HTML
+
+Web para aprender HTML.
+
+[MANZ.DEV](https://lenguajehtml.com/html/)
 
