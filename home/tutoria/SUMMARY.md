@@ -10,6 +10,7 @@
     * [UT2 - HTML](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/ut2-html.md)
     * [UT](modulos-curso-26-27/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/ut.md)
   * [Entornos de desarrollo](modulos-curso-26-27/entornos-de-desarrollo.md)
+  * [UT2](modulos-curso-26-27/ut2.md)
   * [Itinerario personal para la empleabilidad I](modulos-curso-26-27/itinerario-personal-para-la-empleabilidad-i.md)
   * [Inglés profesional (GS)](modulos-curso-26-27/ingles-profesional-gs.md)
   * [Tutoría](modulos-curso-26-27/tutoria.md)

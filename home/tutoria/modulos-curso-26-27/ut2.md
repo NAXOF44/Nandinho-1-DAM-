@@ -1,6 +1,8 @@
 ---
-icon: '5'
-cover: ../.gitbook/assets/para web1 DAM (9).gif
+icon: books
+cover: >-
+  ../.gitbook/assets/From Klickpin.com- Content Calendar Ideas for
+  Spring-pin-id-691372980339895808.jpg
 coverY: 0
 layout:
   width: default
@@ -17,16 +19,20 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
   actions:
-    visible: false
+    visible: true
   anchors:
     visible: true
 ---
 
-# Entornos de desarrollo
+# UT2
+
+### Mapa Conceptual UT2
+
+<figure><img src="../.gitbook/assets/UT02_MapaConceptual.jpg" alt=""><figcaption></figcaption></figure>
 
