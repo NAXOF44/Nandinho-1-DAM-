@@ -1,8 +1,8 @@
 ---
 icon: books
 cover:
-  light: ../../.gitbook/assets/1724226101378.jpeg
-  dark: ../../.gitbook/assets/1724226101378.jpeg
+  light: ../../../.gitbook/assets/1724226101378.jpeg
+  dark: ../../../.gitbook/assets/1724226101378.jpeg
 coverY: 0
 layout:
   width: default
@@ -35,4 +35,8 @@ layout:
 Web para aprender HTML.
 
 [MANZ.DEV](https://lenguajehtml.com/html/)
+
+{% content-ref url="nandinho-y-javier-markdown.md" %}
+[nandinho-y-javier-markdown.md](nandinho-y-javier-markdown.md)
+{% endcontent-ref %}
 
